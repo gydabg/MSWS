@@ -58,16 +58,19 @@ MSWS/
 - Restaurant: η = 0.20, ζ = 0.20
 <p float="left">
   <img src="figures/restaurant.png" width="45%" />
+  <img src="figures/restaurant-3d.png" width="45%" />
 </p>
 
   - Laptop: η = 0.05, ζ = 0.25
 <p float="left">
   <img src="figures/laptop.png" width="45%" />
+  <img src="figures/laptop-3d.png" width="45%" />
 </p>
 
   - Shoes: η = 0.10, ζ = 0.10
 <p float="left">
   <img src="figures/shoes.png" width="45%" />
+  <img src="figures/shoes-3d.png" width="45%" />
 </p>
 ## partial experimental results
 
