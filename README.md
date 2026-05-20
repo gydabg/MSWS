@@ -60,14 +60,12 @@ MSWS/
 ## Experimental Results
 
 - Restaurant: η = 0.20, ζ = 0.20
+![Restaurant Results](https://raw.githubusercontent.com/gydabg/MSWS/main/figures/restaurant.png)
 - Laptop: η = 0.05, ζ = 0.25
 - Shoes: η = 0.10, ζ = 0.10
 
-<img width="964" height="238" alt="laptop" src="https://github.com/user-attachments/assets/5c8c6b67-2d6c-49a5-96f0-5ef690c834d0" />
-<img width="6057" height="1865" alt="3d" src="https://github.com/user-attachments/assets/73f1cfce-0300-45aa-b398-801bff7e2bb1" />
 
 
-![Restaurant Results](https://raw.githubusercontent.com/gydabg/MSWS/main/figures/restaurant.png)
 ![Laptop Results](https://raw.githubusercontent.com/gydabg/MSWS/main/figures/laptop.png)
 ![Shoes Results](https://raw.githubusercontent.com/gydabg/MSWS/main/figures/shoes.png)
 ![3D Results](https://raw.githubusercontent.com/gydabg/MSWS/main/figures/3d.png)
