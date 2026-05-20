@@ -62,11 +62,3 @@ MSWS/
 ![Laptop Results](figures/laptop.png)
 ![Shoes Results](figures/shoes.png)
 ![3D Results](figures/3d.png)
-![Restaurant](figures/restaurant.png)
-
-![Laptop](figures/laptop.png)
-
-![Shoes](figures/shoes.png)
-
-![Screenshots of partial experimental results](figures/3d.png)
-
