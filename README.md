@@ -58,7 +58,7 @@ MSWS/
   - Laptop: η = 0.05, ζ = 0.25
   - Shoes: η = 0.10, ζ = 0.10
 
-![Restaurant Results](https://github.com/gydabg/MSWS/blob/main/figures/restaurant.png)
+![Restaurant Results](https://raw.githubusercontent.com/gydabg/MSWS/main/figures/restaurant.png)
 ![Laptop Results](./figures/laptop.png)
 ![Shoes Results](./figures/shoes.png)
 ![3D Results](./figures/3d.png)
