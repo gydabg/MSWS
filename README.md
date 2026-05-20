@@ -58,12 +58,11 @@ MSWS/
   - Laptop: η = 0.05, ζ = 0.25
   - Shoes: η = 0.10, ζ = 0.10
 
-!Restaurant(figures/restaurant.png)
+![Restaurant](figures/restaurant.png)
 
-<img width="444" height="110" alt="image" src="https://github.com/user-attachments/assets/af0a3eea-7750-4881-9018-62d7e8e62b72" />
-<img width="460" height="104" alt="image" src="https://github.com/user-attachments/assets/7ae2c617-95d7-47d0-974e-a9ccf988b2b2" />
+![Laptop](figures/laptop.png)
+
+![Shoes](figures/shoes.png)
 
 Screenshots of partial experimental results：
-<img width="830" height="256" alt="image" src="https://github.com/user-attachments/assets/f92e8daf-01df-4082-816d-66a23e6ae036" />
-
-
+！(figures/3d.png)
