@@ -64,5 +64,6 @@ MSWS/
 
 ![Shoes](figures/shoes.png)
 
-Screenshots of partial experimental results：
-！(figures/3d.png)
+![Screenshots of partial experimental results](figures/3d.png)
+
+![Test](figures/restaurant.png)
