@@ -34,7 +34,7 @@ MSWS/
 │   ├── laptop-acos/
 │   └── shoes-acos/
 
-
+```
 ## Hyperparameters
 
 - Optimizer: AdamW
@@ -54,18 +54,22 @@ MSWS/
 
 - η (phrase-view contribution) and ζ (word-view contribution) tested in range: [0.05, 0.30] with step size 0.05
 - Default values used in experiments:
-  - Restaurant: η = 0.20, ζ = 0.20
-  - Laptop: η = 0.05, ζ = 0.25
-  - Shoes: η = 0.10, ζ = 0.10
-## Experimental Results
 
 - Restaurant: η = 0.20, ζ = 0.20
-![Restaurant Results](https://raw.githubusercontent.com/gydabg/MSWS/main/figures/restaurant.png)
-- Laptop: η = 0.05, ζ = 0.25
-- Shoes: η = 0.10, ζ = 0.10
+<p float="left">
+  <img src="figures/restaurant.png" width="45%" />
+</p>
 
+  - Laptop: η = 0.05, ζ = 0.25
+<p float="left">
+  <img src="figures/laptop.png" width="45%" />
+</p>
 
+  - Shoes: η = 0.10, ζ = 0.10
+<p float="left">
+  <img src="figures/shoes.png" width="45%" />
+</p>
+## partial experimental results
 
-![Laptop Results](https://raw.githubusercontent.com/gydabg/MSWS/main/figures/laptop.png)
-![Shoes Results](https://raw.githubusercontent.com/gydabg/MSWS/main/figures/shoes.png)
 ![3D Results](https://raw.githubusercontent.com/gydabg/MSWS/main/figures/3d.png)
+
