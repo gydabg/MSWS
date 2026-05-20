@@ -65,7 +65,7 @@ MSWS/
 
 
 
-![Restaurant Results](figures/restaurant.png)
-![Laptop Results](https://raw.githubusercontent.com/gydabg/MSWS/main/figures/laptop.png)
-![Shoes Results](figures/shoes.png)
-![3D Results](figures/3d.png)
+![Restaurant Results](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA...)
+![Laptop Results](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA...)
+![Shoes Results](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA...)
+![3D Results](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA...)
