@@ -59,6 +59,6 @@ MSWS/
   - Shoes: η = 0.10, ζ = 0.10
 
 ![Restaurant Results](https://github.com/gydabg/MSWS/blob/main/figures/restaurant.png)
-![Laptop Results](/figures/laptop.png)
-![Shoes Results](/figures/shoes.png)
-![3D Results](/figures/3d.png)
+![Laptop Results](./figures/laptop.png)
+![Shoes Results](./figures/shoes.png)
+![3D Results](./figures/3d.png)
