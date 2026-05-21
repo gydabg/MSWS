@@ -49,30 +49,23 @@ MSWS/
 - Clause candidate Top-K: 1 for short sentences, 3 for others
 - Character 3-gram Jaccard threshold: 0.85
 - Seeds used for 5-run average: 11, 15, 42, 47, 51
-
-## Hyperparameter Search (η and ζ)
-
-- η (phrase-view contribution) and ζ (word-view contribution) tested in range: [0.05, 0.30] with step size 0.05
-- Default values used in experiments:
-
 - Restaurant: η = 0.20, ζ = 0.20
+- Laptop: η = 0.05, ζ = 0.25
+- Shoes: η = 0.10, ζ = 0.10
+
+## Some Experimental Results
+
+- Restaurant:
 <p float="left">
   <img src="figures/restaurant.png" width="45%" />
-  <img src="figures/restaurant-3d.png" width="45%" />
 </p>
 
-  - Laptop: η = 0.05, ζ = 0.25
+  - Laptop: 
 <p float="left">
   <img src="figures/laptop.png" width="45%" />
-  <img src="figures/laptop-3d.png" width="45%" />
 </p>
 
-  - Shoes: η = 0.10, ζ = 0.10
+  - Shoes: 
 <p float="left">
   <img src="figures/shoes.png" width="45%" />
-  <img src="figures/shoes-3d.png" width="45%" />
 </p>
-## partial experimental results
-
-![3D Results](https://raw.githubusercontent.com/gydabg/MSWS/main/figures/3d.png)
-
